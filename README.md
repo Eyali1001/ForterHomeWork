@@ -10,3 +10,12 @@ After this command, context_c was undefined. I changed it to the first logical t
 context_c = uncompressed.charAt(ii); 
 ```
 this produced the wanted results.
+
+Second Challenge:
+uniquenamechallange.py is the main file, where the countUniquieNames function is defined.
+
+Links to the modules and githup reps I used for this one:
+https://github.com/seatgeek/fuzzywuzzy
+https://github.com/carltonnorthern/nickname-and-diminutive-names-lookup
+
+unit tests are documented inside uniquenamechallenge.py
